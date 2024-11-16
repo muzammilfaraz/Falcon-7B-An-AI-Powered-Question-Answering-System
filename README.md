@@ -1,0 +1,2 @@
+# Falcon-7B-An-AI-Powered-Question-Answering-System
+**Falcon 7B: An AI-Powered Question-Answering System** leverages the Falcon 7B LLM and Hugging Face libraries to deliver accurate and efficient responses to diverse queries. Optimized with 4-bit quantization, it ensures faster inference, reduced resource usage, and seamless integration for applications in education, business, and customer support.
